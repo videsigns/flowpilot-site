@@ -9,6 +9,10 @@
   letter-spacing: 0.1px !important;
 }
 
+.lottie-animation{
+background: transparent;
+}
+
 .vi-ai-mainwrapper{
   width: 100%;
   height: auto;
